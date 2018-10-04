@@ -284,11 +284,7 @@ section a {
   margin: 0;
   clear: both;
 }
-.clearfix:after{
-  content: ".";
-  display: block;
-  clear: both;
-}
+
 
 /********** Details **********/
 
